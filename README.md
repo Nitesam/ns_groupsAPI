@@ -3,4 +3,7 @@
 This resource may be buggy and is not production-ready. 
 It is recommended for use by expert users only.  
 
-Dependent on ESX.
+Dependent on :
+
+ESX;
+ox_target;
